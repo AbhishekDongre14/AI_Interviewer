@@ -1,0 +1,134 @@
+[
+  {
+    "role": "user",
+    "content": "hii"
+  },
+  {
+    "role": "assistant",
+    "content": "Great! Let's capture your basic details one by one. First, **what's your full name?**"
+  },
+  {
+    "role": "user",
+    "content": "sdasds asdasd"
+  },
+  {
+    "role": "assistant",
+    "content": "Great, now your **email**?"
+  },
+  {
+    "role": "user",
+    "content": "dasd@gmail.com"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks! What's your **work experience** (e.g., '3 years')?"
+  },
+  {
+    "role": "user",
+    "content": "3 years"
+  },
+  {
+    "role": "assistant",
+    "content": "Which **position** are you aiming for?"
+  },
+  {
+    "role": "user",
+    "content": "software enginer"
+  },
+  {
+    "role": "assistant",
+    "content": "Finally, list your **tech stack** (comma-separated)."
+  },
+  {
+    "role": "user",
+    "content": "python"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks! Your details are recorded. Let's begin the interview."
+  },
+  {
+    "role": "assistant",
+    "content": "Question 1/10: Describe the difference between static and dynamic programming in the context of Python."
+  },
+  {
+    "role": "user",
+    "content": "ddddddddddddddd"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 2/10: Explain the purpose of using a virtual environment in Python development."
+  },
+  {
+    "role": "user",
+    "content": "dddddddddddddddddd"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 3/10: How would you implement a basic queue data structure using a Python data structure?"
+  },
+  {
+    "role": "user",
+    "content": "sssssssssssssssssssssss"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 4/10: Discuss the role of libraries like NumPy and Pandas in data manipulation and analysis in Python."
+  },
+  {
+    "role": "user",
+    "content": "wwwwwwwwwwwwwwwww"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 5/10: Describe the difference between recursion and iteration in Python."
+  },
+  {
+    "role": "user",
+    "content": "eeeeeeeeeeeeeeee"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 6/10: Explain the concept of garbage collection in Python and how it affects memory management."
+  },
+  {
+    "role": "user",
+    "content": "fffffffffffffffffff"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 7/10: How would you design a simple web server in Python using Flask or Django?"
+  },
+  {
+    "role": "user",
+    "content": "hhhhhhhhhhhhhh"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 8/10: Describe the principles of object-oriented programming in Python."
+  },
+  {
+    "role": "user",
+    "content": "eeeeeeeeeeeeeeee"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 9/10: Explain the difference between abstract classes and interfaces in Python."
+  },
+  {
+    "role": "user",
+    "content": "aaaaaaaaaaaaaaaa"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 10/10: Discuss the use of exceptions in Python and how they are handled."
+  },
+  {
+    "role": "user",
+    "content": "hhhhhhhhhhhhhhhhh"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks for completing all questions. Evaluating your responses… ⏳"
+  }
+]

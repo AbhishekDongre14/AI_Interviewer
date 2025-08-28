@@ -1,0 +1,158 @@
+[
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "Great! Let's capture your basic details one by one. First, **what's your full name?**"
+  },
+  {
+    "role": "user",
+    "content": "abhishek dongre"
+  },
+  {
+    "role": "assistant",
+    "content": "Great, now your **email**?"
+  },
+  {
+    "role": "user",
+    "content": "abdas@gmail.com"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks! What's your **work experience** (e.g., '3 years')?"
+  },
+  {
+    "role": "user",
+    "content": "4"
+  },
+  {
+    "role": "assistant",
+    "content": "Please specify your **experience** (e.g., '3 years')."
+  },
+  {
+    "role": "user",
+    "content": "4 years"
+  },
+  {
+    "role": "assistant",
+    "content": "Which **position** are you aiming for?"
+  },
+  {
+    "role": "user",
+    "content": "SDE"
+  },
+  {
+    "role": "assistant",
+    "content": "Finally, list your **tech stack** (comma-separated)."
+  },
+  {
+    "role": "user",
+    "content": "python,sql"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks! Your details are recorded. Let's begin the interview."
+  },
+  {
+    "role": "assistant",
+    "content": "Question 1/10: Explain the difference between a relational database and a NoSQL database, and give an example of each."
+  },
+  {
+    "role": "user",
+    "content": "A relational database stores structured data in tables with predefined schemas and supports SQL (e.g., **MySQL**), while a NoSQL database stores unstructured/semi-structured data in flexible formats like key-value, document, or graph (e.g., **MongoDB**)."
+  },
+  {
+    "role": "assistant",
+    "content": "Question 2/10: Describe the different components of a SQL query, including the SELECT, FROM, WHERE, and ORDER BY clauses."
+  },
+  {
+    "role": "user",
+    "content": "* **SELECT** → specifies the columns or expressions to retrieve.\n* **FROM** → defines the table(s) from which to fetch data.\n* **WHERE** → filters rows based on conditions.\n* **ORDER BY** → sorts the result set in ascending or descending order."
+  },
+  {
+    "role": "assistant",
+    "content": "Question 3/10: How would you design a database schema for a web application that allows users to create, edit, and delete posts?"
+  },
+  {
+    "role": "user",
+    "content": "do no"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 4/10: Explain the difference between a function and a class in Python, and give an example of each."
+  },
+  {
+    "role": "user",
+    "content": "don't know"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 5/10: Describe a common algorithm for solving a given problem, such as the bubble sort algorithm or the merge sort algorithm."
+  },
+  {
+    "role": "user",
+    "content": "don't know"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 6/10: How would you implement a connection pool in Python to handle multiple database connections?"
+  },
+  {
+    "role": "user",
+    "content": "don't know"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 7/10: Explain the difference between a thread and a process in Python, and give an example of each."
+  },
+  {
+    "role": "user",
+    "content": "don't know"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 8/10: Describe the principles of system design and give an example of how you would apply them to a Python application."
+  },
+  {
+    "role": "user",
+    "content": "don't know"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 9/10: Give an example of a common error handling technique in Python, and explain how it can be used to improve the robustness of a program."
+  },
+  {
+    "role": "user",
+    "content": "don't know"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 10/10: Describe the difference between a virtual environment and a virtual machine, and give an example of each."
+  },
+  {
+    "role": "user",
+    "content": "don't know"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks for completing all questions. Evaluating your responses… ⏳"
+  },
+  {
+    "role": "assistant",
+    "content": "Interview complete and score shown."
+  },
+  {
+    "role": "user",
+    "content": "ok"
+  },
+  {
+    "role": "assistant",
+    "content": "Interview complete and score shown."
+  },
+  {
+    "role": "user",
+    "content": "ok"
+  }
+]

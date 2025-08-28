@@ -1,0 +1,126 @@
+[
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "Great! Let's capture your basic details one by one. First, **what's your full name?**"
+  },
+  {
+    "role": "user",
+    "content": "ddd kkk"
+  },
+  {
+    "role": "assistant",
+    "content": "Great, now your **email**?"
+  },
+  {
+    "role": "user",
+    "content": "asad@gmail.com"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks! What's your **work experience** (e.g., '3 years')?"
+  },
+  {
+    "role": "user",
+    "content": "3 months"
+  },
+  {
+    "role": "assistant",
+    "content": "Which **position** are you aiming for?"
+  },
+  {
+    "role": "user",
+    "content": "Developer"
+  },
+  {
+    "role": "assistant",
+    "content": "Finally, list your **tech stack** (comma-separated)."
+  },
+  {
+    "role": "user",
+    "content": "python, django"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks! Your details are recorded. Let's begin the interview."
+  },
+  {
+    "role": "assistant",
+    "content": "Question 1/10: Describe the difference between a variable and a function in the context of the Python language."
+  },
+  {
+    "role": "user",
+    "content": "asdddddddddddddddddd"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 2/10: Explain the purpose of using Django for web development and provide an example of a basic model and view in the framework."
+  },
+  {
+    "role": "user",
+    "content": "asdddddddddddd"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 3/10: Discuss the role of libraries like NumPy and Pandas in data manipulation and analysis."
+  },
+  {
+    "role": "user",
+    "content": "asssssssssssssssssssssssss"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 4/10: Explain the difference between recursion and iteration in Python and provide an example of each."
+  },
+  {
+    "role": "user",
+    "content": "sdaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 5/10: Describe the principles of designing a RESTful API and provide an example of a simple API endpoint using Django REST framework."
+  },
+  {
+    "role": "user",
+    "content": "asdddddddddddddddddddddddd"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 6/10: Discuss the role of middleware in Django and provide an example of how it can be used to perform authentication."
+  },
+  {
+    "role": "user",
+    "content": "saddddddddddddddddddddddd"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 7/10: Explain the difference between static and dynamic content in Django and provide an example of each."
+  },
+  {
+    "role": "user",
+    "content": "saddddddddddddddddddddd"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 8/10: Describe the process of unit testing in Python and provide an example of a unit test for a model class."
+  },
+  {
+    "role": "user",
+    "content": "sdaaaaaaaaaaaaaaaaaaaa"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 9/10: Discuss the concept of dependency injection and provide an example of how it can be implemented in a Django project."
+  },
+  {
+    "role": "user",
+    "content": "asdddddddddddddddddd"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 10/10: Explain the purpose of unit testing and provide an example of how it can be used to improve code quality."
+  }
+]

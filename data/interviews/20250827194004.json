@@ -1,0 +1,142 @@
+[
+  {
+    "role": "user",
+    "content": "fgg"
+  },
+  {
+    "role": "assistant",
+    "content": "Please greet to begin — try saying **hello** 👋"
+  },
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "Great! Let's capture your basic details one by one. First, **what's your full name?**"
+  },
+  {
+    "role": "user",
+    "content": "fgf  fg"
+  },
+  {
+    "role": "assistant",
+    "content": "Great, now your **email**?"
+  },
+  {
+    "role": "user",
+    "content": "sad@gmail.com"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks! What's your **work experience** (e.g., '3 years')?"
+  },
+  {
+    "role": "user",
+    "content": "3 y"
+  },
+  {
+    "role": "assistant",
+    "content": "Which **position** are you aiming for?"
+  },
+  {
+    "role": "user",
+    "content": "SDE"
+  },
+  {
+    "role": "assistant",
+    "content": "Finally, list your **tech stack** (comma-separated)."
+  },
+  {
+    "role": "user",
+    "content": "assa,fd,gh"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks! Your details are recorded. Let's begin the interview."
+  },
+  {
+    "role": "assistant",
+    "content": "Question 1/10: Describe the difference between a linked list and a binary search tree in terms of memory management and search performance."
+  },
+  {
+    "role": "user",
+    "content": "sdfaaaaaa\\"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 2/10: Explain the purpose of using threads in a multi-threaded programming environment. Give an example of when using threads would be beneficial."
+  },
+  {
+    "role": "user",
+    "content": "dggggggggg"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 3/10: Discuss the difference between static and dynamic typing in languages like Python and Java. Give examples of when each type is used."
+  },
+  {
+    "role": "user",
+    "content": "djjjjjjjjjjjjj"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 4/10: Explain the difference between a mutex and a semaphore in terms of their functionality and use cases."
+  },
+  {
+    "role": "user",
+    "content": "jjjjjjjjjjjjjjj"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 5/10: Describe the difference between a TCP and a UDP socket and give an example of when each is used."
+  },
+  {
+    "role": "user",
+    "content": "lllllllllllllllll"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 6/10: Explain the difference between a hash table and a linked list in terms of data structure and how they are used for different purposes."
+  },
+  {
+    "role": "user",
+    "content": "ffffffffffffffff"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 7/10: Discuss the concept of garbage collection in languages like Python and how it affects memory management."
+  },
+  {
+    "role": "user",
+    "content": "yyyyyyyyyyyyyyyyyy"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 8/10: Describe the difference between a compiler and an assembler and give an example of each."
+  },
+  {
+    "role": "user",
+    "content": "sssssssssssssssss"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 9/10: Explain the difference between a virtual machine and a physical machine in terms of their architecture and how they are used for different purposes."
+  },
+  {
+    "role": "user",
+    "content": "uuuuuuuuuuuuuu"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 10/10: Discuss the concept of polymorphism and how it is achieved in languages like Java and Python."
+  },
+  {
+    "role": "user",
+    "content": "xxxxxxxxxxxx"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks for completing all questions. Evaluating your responses… ⏳"
+  }
+]

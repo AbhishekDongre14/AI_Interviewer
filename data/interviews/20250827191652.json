@@ -1,0 +1,134 @@
+[
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "assistant",
+    "content": "Great! Let's capture your basic details one by one. First, **what's your full name?**"
+  },
+  {
+    "role": "user",
+    "content": "nishi cahda"
+  },
+  {
+    "role": "assistant",
+    "content": "Great, now your **email**?"
+  },
+  {
+    "role": "user",
+    "content": "asdklakndkw@9.com"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks! What's your **work experience** (e.g., '3 years')?"
+  },
+  {
+    "role": "user",
+    "content": "0 years"
+  },
+  {
+    "role": "assistant",
+    "content": "Which **position** are you aiming for?"
+  },
+  {
+    "role": "user",
+    "content": "CEO"
+  },
+  {
+    "role": "assistant",
+    "content": "Finally, list your **tech stack** (comma-separated)."
+  },
+  {
+    "role": "user",
+    "content": "phyton"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks! Your details are recorded. Let's begin the interview."
+  },
+  {
+    "role": "assistant",
+    "content": "Question 1/10: Describe the purpose of the Phyton framework and how it integrates with the Python programming language."
+  },
+  {
+    "role": "user",
+    "content": "123yes"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 2/10: Explain the difference between a virtual environment and a package manager in the context of Phyton."
+  },
+  {
+    "role": "user",
+    "content": "0no"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 3/10: Discuss the role of the SQLAlchemy module in the Phyton data modeling process."
+  },
+  {
+    "role": "user",
+    "content": "no"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 4/10: Explain the concept of dependency injection and how it's implemented in Phyton."
+  },
+  {
+    "role": "user",
+    "content": "yes"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 5/10: Describe the purpose of unit testing in the Phyton project lifecycle and how it's integrated with the development process."
+  },
+  {
+    "role": "user",
+    "content": "no "
+  },
+  {
+    "role": "assistant",
+    "content": "Question 6/10: Explain the role of the Celery worker in the Phyton application architecture."
+  },
+  {
+    "role": "user",
+    "content": "asdadwef"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 7/10: Discuss the principles of thread safety and how they are implemented in Phyton."
+  },
+  {
+    "role": "user",
+    "content": "aklls"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 8/10: Describe the use of asynchronous programming in Phyton and how it enables concurrent task execution."
+  },
+  {
+    "role": "user",
+    "content": "asdflkjh"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 9/10: Explain the purpose of the logging module in the Phyton project and how it's used for error tracking and performance monitoring."
+  },
+  {
+    "role": "user",
+    "content": "llll"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 10/10: Discuss the role of the configuration management system (e.g., ConfigParser) in the Phyton project and how it's used to define and load application settings."
+  },
+  {
+    "role": "user",
+    "content": "asdwefw"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks for completing all questions. Evaluating your responses… ⏳"
+  }
+]

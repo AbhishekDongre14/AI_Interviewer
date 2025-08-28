@@ -1,0 +1,154 @@
+[
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "Great! Let's capture your basic details one by one. First, **what's your full name?**"
+  },
+  {
+    "role": "user",
+    "content": "abdasdasd sfdasd"
+  },
+  {
+    "role": "assistant",
+    "content": "Great, now your **email**?"
+  },
+  {
+    "role": "user",
+    "content": "dasd@gmail.com"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks! What's your **work experience** (e.g., '3 years')?"
+  },
+  {
+    "role": "user",
+    "content": "4 months"
+  },
+  {
+    "role": "assistant",
+    "content": "Which **position** are you aiming for?"
+  },
+  {
+    "role": "user",
+    "content": "software engineer"
+  },
+  {
+    "role": "assistant",
+    "content": "Finally, list your **tech stack** (comma-separated)."
+  },
+  {
+    "role": "user",
+    "content": "java, css, html"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks! Your details are recorded. Let's begin the interview."
+  },
+  {
+    "role": "assistant",
+    "content": "Question 1/10: Explain the difference between static and dynamic HTML and provide an example of each."
+  },
+  {
+    "role": "user",
+    "content": "asdddddddddddddddd"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 2/10: Describe the difference between a linked and a relative URL and provide an example of each."
+  },
+  {
+    "role": "user",
+    "content": "saddddddddddddddd"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 3/10: Explain the purpose of CSS and provide an example of a basic CSS rule."
+  },
+  {
+    "role": "user",
+    "content": "asddddddddddddddddddd"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 4/10: Describe the difference between a hash and a URL fragment and provide an example of each."
+  },
+  {
+    "role": "user",
+    "content": "asddddddddddddddddddddd"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 5/10: Explain the difference between a String and a StringBuffer and provide an example of each."
+  },
+  {
+    "role": "user",
+    "content": "asdddddddddddddd"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 6/10: Describe the purpose of a HashMap and provide an example of its usage."
+  },
+  {
+    "role": "user",
+    "content": "dsaaaaaaaaaaaaaaaa"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 7/10: Explain the difference between a linked list and an array and provide an example of each."
+  },
+  {
+    "role": "user",
+    "content": "asdddddddddddddddddd"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 8/10: Describe the purpose of a thread and provide an example of its usage."
+  },
+  {
+    "role": "user",
+    "content": "asddddddddddddddddd"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 9/10: Explain the difference between a synchronized and an asynchronous method and provide an example of each."
+  },
+  {
+    "role": "user",
+    "content": "sadddddddddddddd"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 10/10: Describe the purpose of a semaphore and provide an example of its usage."
+  },
+  {
+    "role": "user",
+    "content": "asdddddddddddddddd"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks for completing all questions. Evaluating your responses… ⏳"
+  },
+  {
+    "role": "user",
+    "content": "d"
+  },
+  {
+    "role": "user",
+    "content": "fds"
+  },
+  {
+    "role": "user",
+    "content": "das"
+  },
+  {
+    "role": "user",
+    "content": "gfd"
+  },
+  {
+    "role": "user",
+    "content": "dfgd"
+  }
+]

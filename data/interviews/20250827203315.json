@@ -1,0 +1,142 @@
+[
+  {
+    "role": "user",
+    "content": "helloo"
+  },
+  {
+    "role": "assistant",
+    "content": "Please greet to begin — try saying **hello** 👋"
+  },
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "Great! Let's capture your basic details one by one. First, **what's your full name?**"
+  },
+  {
+    "role": "user",
+    "content": "asda dfd"
+  },
+  {
+    "role": "assistant",
+    "content": "Great, now your **email**?"
+  },
+  {
+    "role": "user",
+    "content": "sdas@gmail.com"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks! What's your **work experience** (e.g., '3 years')?"
+  },
+  {
+    "role": "user",
+    "content": "3 years"
+  },
+  {
+    "role": "assistant",
+    "content": "Which **position** are you aiming for?"
+  },
+  {
+    "role": "user",
+    "content": "SDE"
+  },
+  {
+    "role": "assistant",
+    "content": "Finally, list your **tech stack** (comma-separated)."
+  },
+  {
+    "role": "user",
+    "content": "python,sql,html,css,java"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks! Your details are recorded. Let's begin the interview."
+  },
+  {
+    "role": "assistant",
+    "content": "Question 1/10: Explain the difference between SQL and Python in terms of data manipulation and retrieval."
+  },
+  {
+    "role": "user",
+    "content": "asdasda"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 2/10: Describe a scenario where you would use SQL to perform a complex data analysis on a large dataset."
+  },
+  {
+    "role": "user",
+    "content": "dsasd"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 3/10: How would you design a basic web application using HTML, CSS, and JavaScript that allows users to input and display data?"
+  },
+  {
+    "role": "user",
+    "content": "asdasd"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 4/10: Explain the purpose of object-oriented programming and how it can be used to design a scalable and maintainable software system."
+  },
+  {
+    "role": "user",
+    "content": "asdasd"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 5/10: Describe a common algorithm for solving a specific problem in Python, such as finding the minimum value in a list."
+  },
+  {
+    "role": "user",
+    "content": "asdas"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 6/10: Explain the difference between static and dynamic programming and provide an example of each."
+  },
+  {
+    "role": "user",
+    "content": "asdas"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 7/10: Describe how you would implement a connection pool in Python to efficiently manage database connections."
+  },
+  {
+    "role": "user",
+    "content": "asdsas"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 8/10: Explain the principles of SOLID architectural pattern and how it can be applied to a Python project."
+  },
+  {
+    "role": "user",
+    "content": "sdas"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 9/10: Describe a common design pattern for handling exceptions in Python and how it can be used to improve code robustness."
+  },
+  {
+    "role": "user",
+    "content": "as"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 10/10: How would you optimize the performance of a Python script that performs a lot of data processing?"
+  },
+  {
+    "role": "user",
+    "content": "sad"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks for completing all questions. Evaluating your responses… ⏳"
+  }
+]

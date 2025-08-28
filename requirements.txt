@@ -1,0 +1,11 @@
+# Streamlit app + LangChain + Ollama chat model
+streamlit
+pandas
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+ollama
+python-dotenv
+sentence-transformers
+scikit-learn

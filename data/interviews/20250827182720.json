@@ -1,0 +1,134 @@
+[
+  {
+    "role": "user",
+    "content": "hii"
+  },
+  {
+    "role": "assistant",
+    "content": "Great! Let's capture your basic details one by one. First, **what's your full name?**"
+  },
+  {
+    "role": "user",
+    "content": "Akash Dongre"
+  },
+  {
+    "role": "assistant",
+    "content": "Great, now your **email**?"
+  },
+  {
+    "role": "user",
+    "content": "akashdongre@gmail.com"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks! What's your **work experience** (e.g., '3 years')?"
+  },
+  {
+    "role": "user",
+    "content": "4 year"
+  },
+  {
+    "role": "assistant",
+    "content": "Which **position** are you aiming for?"
+  },
+  {
+    "role": "user",
+    "content": "front end developer"
+  },
+  {
+    "role": "assistant",
+    "content": "Finally, list your **tech stack** (comma-separated)."
+  },
+  {
+    "role": "user",
+    "content": "html,css,bootstrap"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks! Your details are recorded. Let's begin the interview."
+  },
+  {
+    "role": "assistant",
+    "content": "Question 1/10: Explain the difference between HTML and CSS in the context of front-end development."
+  },
+  {
+    "role": "user",
+    "content": "**HTML** defines the structure and content of a webpage (headings, paragraphs, images, links), while **CSS** controls its presentation and styling (colors, layout, fonts, spacing).\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 2/10: Describe the purpose of JavaScript and how it interacts with HTML and CSS."
+  },
+  {
+    "role": "user",
+    "content": "**JavaScript** adds interactivity and dynamic behavior to web pages by manipulating **HTML** (content/structure) and **CSS** (style/layout) through the Document Object Model (DOM).\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 3/10: Explain the concept of responsive design and how it applies to front-end development."
+  },
+  {
+    "role": "user",
+    "content": "**Responsive design** is an approach in front-end development that ensures a website adapts its layout and elements to different screen sizes and devices (desktop, tablet, mobile) using techniques like fluid grids, flexible images, and CSS media queries.\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 4/10: Describe a common front-end framework like Bootstrap and its benefits and drawbacks."
+  },
+  {
+    "role": "user",
+    "content": "**Bootstrap** is a popular front-end framework that provides pre-built HTML, CSS, and JavaScript components for building responsive and mobile-first websites.\n\n* **Benefits**: Speeds up development, ensures responsive design, has consistent styling, and includes many ready-to-use components.\n* **Drawbacks**: Can lead to a “generic” look if not customized, adds extra code bloat, and may limit design flexibility.\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 5/10: Explain the difference between static and dynamic content in HTML and how they are handled by the browser."
+  },
+  {
+    "role": "user",
+    "content": "**Static content** in HTML is fixed (like plain text or images) and always looks the same to every user, while **dynamic content** is generated or updated in real-time (e.g., via JavaScript or server-side scripts) and can change based on user interaction or data; the browser directly renders static content but executes scripts or fetches server responses to display dynamic content.\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 6/10: Describe a real-world scenario where you would use HTML, CSS, and JavaScript to create a simple web page."
+  },
+  {
+    "role": "user",
+    "content": "A **personal portfolio website** is a real-world scenario:\n\n* **HTML** structures the content (sections like About, Projects, Contact).\n* **CSS** styles it (colors, fonts, layouts, responsive design).\n* **JavaScript** adds interactivity (form validation, project sliders, or smooth scrolling).\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 7/10: Explain the importance of accessibility in front-end development and how you would ensure an accessible website."
+  },
+  {
+    "role": "user",
+    "content": "Accessibility in front-end development ensures that websites are usable by people with disabilities (e.g., visual, auditory, motor, or cognitive)."
+  },
+  {
+    "role": "assistant",
+    "content": "Question 8/10: Describe a common front-end performance optimization technique and how it can improve website speed."
+  },
+  {
+    "role": "user",
+    "content": "A common front-end optimization technique is **minifying and compressing CSS, JavaScript, and HTML files**, which removes unnecessary spaces, comments, and characters; this reduces file size, improves load times, and speeds up overall website performance.\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 9/10: Explain the difference between single-page applications (SPAs) and traditional websites and their advantages and disadvantages."
+  },
+  {
+    "role": "user",
+    "content": "**Traditional websites** load a new HTML page from the server on each navigation, while **Single-Page Applications (SPAs)** load a single HTML page and dynamically update content using JavaScript without full page reloads.\n\n* **SPAs Advantages**: Faster navigation, smoother user experience, reduced server load.\n\n* **SPAs Disadvantages**: SEO challenges, larger initial load, higher reliance on JavaScript.\n\n* **Traditional Websites Advantages**: Better SEO, simpler to build, works without heavy JavaScript.\n\n* **Traditional Websites Disadvantages**: Slower navigation due to full page reloads, less app-like experience.\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 10/10: Describe a popular JavaScript library or framework that can be used for building interactive web applications."
+  },
+  {
+    "role": "user",
+    "content": "**React** is a popular JavaScript library for building interactive web applications. It uses a **component-based architecture** and a **virtual DOM** to efficiently update only the parts of the UI that change.  \n\n- **Benefits**: Reusable components, fast rendering, strong community support, and easy integration with other tools.  \n- **Drawbacks**: Steep learning curve for beginners, requires additional libraries for full functionality (like routing or state management).  "
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks for completing all questions. Evaluating your responses… ⏳"
+  }
+]

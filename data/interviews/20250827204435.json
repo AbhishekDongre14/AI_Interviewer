@@ -1,0 +1,134 @@
+[
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "Great! Let's capture your basic details one by one. First, **what's your full name?**"
+  },
+  {
+    "role": "user",
+    "content": "simran ulli"
+  },
+  {
+    "role": "assistant",
+    "content": "Great, now your **email**?"
+  },
+  {
+    "role": "user",
+    "content": "simran@gmail.com"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks! What's your **work experience** (e.g., '3 years')?"
+  },
+  {
+    "role": "user",
+    "content": "2 years"
+  },
+  {
+    "role": "assistant",
+    "content": "Which **position** are you aiming for?"
+  },
+  {
+    "role": "user",
+    "content": "ML engineer"
+  },
+  {
+    "role": "assistant",
+    "content": "Finally, list your **tech stack** (comma-separated)."
+  },
+  {
+    "role": "user",
+    "content": "python,tensorflow,nlp"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks! Your details are recorded. Let's begin the interview."
+  },
+  {
+    "role": "assistant",
+    "content": "Question 1/10: **Explain the difference between TensorFlow and NLTK libraries in the context of machine learning.**"
+  },
+  {
+    "role": "user",
+    "content": "**TensorFlow** is a deep learning framework used for building and training neural networks and complex ML models, while **NLTK (Natural Language Toolkit)** is a specialized library for natural language processing tasks like tokenization, stemming, and parsing text.\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 2/10: **Describe a scenario where you would use the TF-IDF algorithm to analyze a large dataset of text documents.**"
+  },
+  {
+    "role": "user",
+    "content": "You would use **TF-IDF** when building a **search engine for news articles**: it helps identify the most important words in each article by reducing the weight of common terms (like *the* or *and*) and highlighting unique, meaningful terms, improving the relevance of search results when users query the dataset.\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 3/10: **How would you implement a basic sentiment analysis pipeline using NLP and how would you evaluate its performance?**"
+  },
+  {
+    "role": "user",
+    "content": "A **basic sentiment analysis pipeline** can be implemented as follows:\n\n1. **Data Collection** → Gather labeled text data (e.g., positive/negative reviews).\n2. **Preprocessing** → Clean text (lowercasing, removing stopwords, tokenization, stemming/lemmatization).\n3. **Feature Extraction** → Convert text to numerical features using **Bag of Words** or **TF-IDF**.\n4. **Model Training** → Train a classifier (e.g., Logistic Regression, Naive Bayes, or an LSTM/Transformer model for deep learning).\n5. **Prediction** → Classify new text as positive, negative, or neutral.\n\n**Evaluation**: Use metrics like **accuracy, precision, recall, F1-score, and confusion matrix**; for imbalanced data, also consider **ROC-AUC score**.\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 4/10: **Explain the role of data cleaning and feature engineering in data preparation for machine learning tasks.**"
+  },
+  {
+    "role": "user",
+    "content": "**Data cleaning** ensures the dataset is accurate and usable by handling missing values, removing duplicates, correcting errors, and dealing with outliers.\n\n**Feature engineering** transforms raw data into meaningful inputs for models by creating new features, encoding categorical variables, scaling/normalizing values, and selecting the most relevant features—ultimately improving model performance and accuracy.\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 5/10: **How would you handle missing values and outliers in a dataset while performing data analysis?**"
+  },
+  {
+    "role": "user",
+    "content": "* **Handling Missing Values**:\n\n  * Remove rows/columns if too many values are missing.\n  * Impute with mean/median/mode (for numerical/categorical data).\n  * Use advanced methods like **KNN imputation** or model-based imputation.\n\n* **Handling Outliers**:\n\n  * Detect using statistical methods (IQR, Z-score) or visualization (boxplot, scatterplot).\n  * Treat by capping values, transforming data (log, sqrt), or removing extreme cases if they are errors.\n  * Keep them if they represent true, meaningful variation in the data.\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 6/10: **Discuss the importance of regularization techniques in preventing overfitting and how you would implement L1 and L2 regularization in TensorFlow.**"
+  },
+  {
+    "role": "user",
+    "content": "Regularization prevents overfitting by penalizing overly complex models, forcing them to generalize better instead of memorizing training data. It works by adding a penalty term to the loss function, discouraging large weights."
+  },
+  {
+    "role": "assistant",
+    "content": "Question 7/10: **Describe a common optimization algorithm used in machine learning and explain its key features.**"
+  },
+  {
+    "role": "user",
+    "content": "A common optimization algorithm in machine learning is **Stochastic Gradient Descent (SGD)**.\n\n* **Key Features**:\n\n  * Updates model parameters iteratively using the gradient of the loss function.\n  * Uses a **learning rate** to control step size.\n  * Instead of the whole dataset, it updates weights using small random batches, making it faster and more scalable.\n  * Variants like **SGD with Momentum**, **Adam**, and **RMSprop** improve convergence and stability.\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 8/10: **What are the different types of neural networks and their suitability for different machine learning tasks?**"
+  },
+  {
+    "role": "user",
+    "content": "Feedforward Neural Network (FNN/ANN) → Basic fully connected network; suitable for structured/tabular data and simple classification/regression tasks.\n\nConvolutional Neural Network (CNN) → Uses convolutional layers to detect spatial patterns; best for image recognition, object detection, video analysis.\n\nRecurrent Neural Network (RNN) → Processes sequential data with memory of previous inputs; used for time series forecasting, speech recognition, natural language processing.\n\nLong Short-Term Memory (LSTM) / GRU → Advanced RNNs that handle long-term dependencies; effective for text generation, translation, sentiment analysis.\n\nGenerative Adversarial Network (GAN) → Consists of a generator and discriminator; used for image generation, data augmentation, deepfake creation.\n\nRadial Basis Function Network (RBFN) → Uses radial basis functions as activation; suitable for function approximation and classification.\n\nTransformer Networks → Attention-based models; state-of-the-art for NLP tasks, machine translation, and large language models."
+  },
+  {
+    "role": "assistant",
+    "content": "Question 9/10: **Explain the difference between gradient descent and stochastic gradient descent and provide an example of each.**"
+  },
+  {
+    "role": "user",
+    "content": "**Gradient Descent (GD)** computes the gradient of the loss function using the **entire dataset** to update model parameters, ensuring stable convergence but can be slow on large datasets.\n\n* **Example**: Training a linear regression model on 100,000 rows by computing the gradient over all rows before each update.\n\n**Stochastic Gradient Descent (SGD)** updates parameters **using one sample or a small batch** at a time, making it faster and suitable for large datasets, but the updates are noisier.\n\n* **Example**: Training the same linear regression model by updating weights after each individual data point or mini-batch of 32 samples.\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Question 10/10: **Describe the role of hyperparameter tuning in optimizing the performance of a machine learning model.**"
+  },
+  {
+    "role": "user",
+    "content": "**Hyperparameter tuning** involves selecting the best values for parameters that are not learned during training (e.g., learning rate, number of layers, regularization strength, batch size) to **maximize model performance**, improve generalization, and prevent overfitting or underfitting.\n\nCommon tuning methods include **grid search, random search, and Bayesian optimization**.\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks for completing all questions. Evaluating your responses… ⏳"
+  }
+]
