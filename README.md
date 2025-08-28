@@ -111,7 +111,10 @@ http://localhost:8501
 ## 📂 Data Storage
 
 * `data/candidates.csv` → Stores candidate basic information
+<img width="1853" height="1042" alt="Screenshot from 2025-08-28 17-21-59" src="https://github.com/user-attachments/assets/3af209b1-fd27-431d-9a8a-c40f7821cff7" />
+
 * `data/performance.csv` → Stores candidate responses with scores
+<img width="1853" height="1042" alt="Screenshot from 2025-08-28 17-22-10" src="https://github.com/user-attachments/assets/f0a0ee86-c961-4e1f-9bfd-348d4e8a6320" />
 
 ---
 
